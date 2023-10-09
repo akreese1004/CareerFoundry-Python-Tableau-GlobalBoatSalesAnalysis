@@ -1,6 +1,6 @@
 # Python and Tableau
 
-# Global-Boat-Sales-Analysis
+# Global Boat Sales Analysis
 
 **Project Summary:**
 
