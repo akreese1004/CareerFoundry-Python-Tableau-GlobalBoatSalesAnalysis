@@ -38,3 +38,5 @@ The data set(s) you choose must:
 * Cluster analysis
 * Time-series analysis
 * Analysis narrative and final results (presented in a dashboard)
+
+Raw data link: https://www.kaggle.com/datasets/karthikbhandary2/boat-sales?resource=download
